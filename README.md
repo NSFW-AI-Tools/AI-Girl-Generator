@@ -4,7 +4,7 @@
 
 An AI Girl Generator is a software tool that leverages artificial intelligence, specifically AI image generation technology, to create realistic and customizable virtual female characters. 
 
-[Discover AI Girl Generator](https://nude-ai.link/)
+[Discover AI Girl Generator](https://undress-ai.link/)
 
 These generators utilize advanced algorithms and deep learning techniques, such as Convolutional Neural Networks (CNNs) and Generative Adversarial Networks (GANs), to generate diverse and realistic images. Users can input text prompts or upload images to guide the AI in creating the desired AI girl.
 
